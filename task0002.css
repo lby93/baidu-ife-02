@@ -2,10 +2,12 @@ body {font-family: "Microsoft YaHei" ;}
 .nav{
 	background: #000;
 	margin:0px;
+	padding:10px;
 }
 .nav ul{
 	width:980px;
 	float:right;
+	list-style-type: none
 }
 .nav ul li{
 	float:right;
